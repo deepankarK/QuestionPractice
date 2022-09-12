@@ -1,5 +1,6 @@
 package BasicExercise1;
 
+
 public class P32 {
 
     public static boolean divideBy3(int num) {
